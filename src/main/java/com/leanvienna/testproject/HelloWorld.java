@@ -1,0 +1,7 @@
+package com.leanvienna.testproject;
+
+public class HelloWorld {
+	public String helloWorld() {
+		return "Hello World";
+	}
+}
